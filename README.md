@@ -1,7 +1,5 @@
 # Zippia Test
 
-https://github.com/fabiochiquezi/zippia-2nd
-
 ### To use
 
 -   **yarn install** or **npm install**
